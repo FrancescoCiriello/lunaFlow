@@ -1,1 +1,11 @@
-Lunaflow readme
+__Lunaflow - Bioluminescent plankton for 3D flow visualisations of pressure fields.__
+
+Full project description on: https://www.hackster.io/lunaflow/lunaflow-d60cbe
+
+The lunaFlow project is powered by the camFlowAq suite of functionalities developed by Francesco Ciriello in 2019.
+
+For the project, we extended these functionalities to a new app that allows for simultaneous capture with 4 cameras.
+
+Run the camFlowAqApp in remote mode to connect to Raspberry Pi boards over an MQTT connection.
+
+(work in progress)
